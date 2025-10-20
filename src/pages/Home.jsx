@@ -185,11 +185,11 @@ function Home() {
             <div className="bg-white rounded-lg overflow-hidden shadow-md transition-transform duration-300 hover:-translate-y-1">
               <img
                 src="/summer_gather2025.jpg"
-                alt="Food Security Program"
+                alt="Summer Gathering in Poland"
                 className="w-full h-48 object-cover"
               />
               <div className="p-6">
-                <h3 className="text-xl font-semibold mb-2">Summer Gthering</h3>
+                <h3 className="text-xl font-semibold mb-2">Summer Gathering</h3>
                 <p className="text-gray-600">
                   Sun, flavors, and friends! Come enjoy a delightful summer
                   feast with your community.
@@ -206,7 +206,7 @@ function Home() {
             <div className="bg-white rounded-lg overflow-hidden shadow-md transition-transform duration-300 hover:-translate-y-1">
               <img
                 src="/abdulqadir_2025.jpg"
-                alt="Education Program"
+                alt="Foundation's Leader Abdul Qadir"
                 className="w-full h-48 object-cover"
               />
               <div className="p-6">
@@ -229,7 +229,7 @@ function Home() {
             <div className="bg-white rounded-lg overflow-hidden shadow-md transition-transform duration-300 hover:-translate-y-1">
               <img
                 src="/eidul_adha20251.jpg"
-                alt="Healthcare Program"
+                alt="Eid ul-Adha 2025 Celebration"
                 className="w-full h-48 object-cover"
               />
               <div className="p-6">

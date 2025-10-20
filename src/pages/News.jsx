@@ -7,6 +7,7 @@ function News() {
       title: "Powerful Earthquake Strikes Herat Province",
       date: "October 2025",
       image: "/earthquake2025.jpg",
+
       summary:
         "A devastating earthquake recently struck parts of Herat, destroying homes and displacing thousands of families. Afghan Home Foundation is working with partner organizations to help coordinate emergency relief and provide shelter support for those affected.",
     },
