@@ -56,7 +56,7 @@ function Header() {
           </Link>
 
           {/* Google Translate Dropdown */}
-          <GoogleTranslateCleanFixed />
+          {/*  <GoogleTranslateCleanFixed />*/}
 
           {/* Get Involved Button */}
           <Link
@@ -121,7 +121,7 @@ function Header() {
         </Link>
 
         {/* Mobile Google Translate Dropdown */}
-        <GoogleTranslateCleanFixed />
+        {/*  <GoogleTranslateCleanFixed />*/}
 
         <Link
           to="/get-involved"
